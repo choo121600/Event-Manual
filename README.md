@@ -152,5 +152,5 @@
 
 ## 06. 라이센스
 
-이 문서에 있는 저작물은 CC BY-NC-SA 2.0 라이센스를 따릅니다.  
+이 문서에 있는 저작물은 [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/legalcode) 라이센스를 따릅니다.  
 비상업적으로 공유하신다면 따로 허가는 필요하지 않고 출처를 밝혀주시면 됩니다.
